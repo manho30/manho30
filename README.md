@@ -15,9 +15,12 @@
 <br>
 - 🍻 Junior at 🇲🇾 Malaysia. <br>
 - ⚡ What i learning to <br>
-![CSS](http://img.shields.io/badge/CSS-333333?style=flate&logo=css3)
+![CSS](http://img.shields.io/badge/CSS3-333333?style=flate&logo=css3)
 ![HTML](http://img.shields.io/badge/HTML-333333?style=flate&logo=html5)
 ![JavaScript](http://img.shields.io/badge/JavaScript-333333?style=flate&logo=javascript)<br>
+![php](http://img.shields.io/badge/PHP-333333?style=flate&logo=php)
+![python](http://img.shields.io/badge/Python-333333?style=flate&logo=python)
+![sql](http://img.shields.io/badge/SQL-333333?style=flate&logo=mysql)<br>
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)<br>
