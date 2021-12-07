@@ -30,7 +30,6 @@
 - ✍️ Studying at secondary school. <br>
 - 🏃 Jogging / Cycling <br>
 - ♟  Chinese Chess / Chess <br>
-- 💪 [VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) 
 
 
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=manho30&show_icons=true) 
