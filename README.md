@@ -1,6 +1,4 @@
 
-# 👋 Hi, I’m Man Ho
-
 
 
 #### Here is my profile view
