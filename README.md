@@ -11,7 +11,7 @@
 <br>
 <br>
 - 🍻 Junior at 🇲🇾 Malaysia. <br>
-- ⚡ What i learning to <br>
+- ⚡ What i *not* learning to <br>
 ![CSS](http://img.shields.io/badge/CSS3-333333?style=flate&logo=css3)
 ![HTML](http://img.shields.io/badge/HTML-333333?style=flate&logo=html5)
 ![JavaScript](http://img.shields.io/badge/JavaScript-333333?style=flate&logo=javascript)<br>
