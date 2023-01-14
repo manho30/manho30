@@ -1,6 +1,5 @@
 ## Hello Im Man Ho🐸
 
-![img](https://activity-graph.herokuapp.com/graph?username=manho30&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manho30&layout=compact&theme=tokyonight)](https://github.com/manho30/github-readme-stats)
 
