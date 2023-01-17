@@ -1,10 +1,6 @@
 ## Hello Im Man Ho🐸
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manho30&layout=compact&theme=tokyonight)](https://github.com/manho30/github-readme-stats)
-
-![manho's GitHub stats](https://github-readme-stats.vercel.app/api?username=manho30&show_icons=true&theme=tokyonight)
-
 ![img](https://github-readme-streak-stats.herokuapp.com/?user=manho30&theme=tokyonight)
 ## About me
 
